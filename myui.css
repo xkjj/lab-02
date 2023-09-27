@@ -1,0 +1,12 @@
+.mybk{
+    background-color: rgb(239, 64, 64) !important;
+}
+
+.card {
+    overflow: hidden;
+}
+
+.card img{
+    width: 526px;
+    height: 350px;
+}
